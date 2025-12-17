@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Govind Khedkar 
 
 🎓 **Final Year Engineering Student**  
-🤖 **Aspiring AI/ML Developer**  
+🤖 **Aspiring Software Developer**  
 💡 Passionate about building intelligent systems and solving real-world problems using code.
 
 ---
