@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Govind Khedkar — [GovindTechie](https://github.com/GovindTechie)
+# 👋 Hi, I'm Govind Khedkar — (https://github.com/govind-khedkar)
 
 🎓 **Final Year Engineering Student**  
 🤖 **Aspiring AI/ML Developer**  
